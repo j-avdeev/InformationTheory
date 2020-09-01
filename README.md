@@ -28,7 +28,9 @@
 
 ## Ссылки
 - Information Theory, Stanford University, by Tsachy Weissman (https://web.stanford.edu/class/ee376a/index.html)
-- Information Theory, MIT Open Coursware, by Yury Polyanskiy (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2016/)
+- Information Theory, MIT Open Coursware, by Prof. Yury Polyanskiy (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2016/)
+- Probability and Random Variables, MIT Open Coursware, by Prof. Scott Sheffield (https://ocw.mit.edu/courses/mathematics/18-600-probability-and-random-variables-fall-2019/)
+- Introduction to Probability and Statistics, MIT Open Coursware, Jeremy Orloff, Jonathan Bloom (https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 
 ## Книги
 - Теория информации и кодирования Электронный ресурс : учеб. пособие, Гошин Е. В. (http://repo.ssau.ru/handle/Uchebnye-izdaniya/Teoriya-informacii-i-kodirovaniya-Elektronnyi-resurs-ucheb-posobie-72551)
